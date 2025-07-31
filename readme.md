@@ -1,4 +1,4 @@
-# Mortgage vs. House Value Calculator
+# Mortgage vs. Investment Calculator
 
 This is a Streamlit app that helps you compare the financial outcomes of buying a house versus investing your money and renting. 
 
